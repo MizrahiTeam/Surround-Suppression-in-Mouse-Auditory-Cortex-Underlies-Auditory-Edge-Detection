@@ -3,6 +3,7 @@ Data and code for the following manuscript - Gilday et al. (2023) PLoS Computati
 
 # The raw data
 The data file ("SS_data.mat") is too big to upload on Github. As such is can be accessed directly through this link to a Google drive:
+https://drive.google.com/drive/folders/1xe9xT83WPGN4589VFSTDTN7oUVKnm1wy?usp=share_link
 
 Alternatively, it can be requested directly through request to the corresponding author of the paper (Adi Mizrahi).
 
